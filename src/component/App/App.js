@@ -3,7 +3,7 @@ import '../App/App.css'
 import Header from '../Header/Header'
 import SearchBox from '../SearchBox/SearchBox'
 import Results from '../Results/Results'
-import NameCard from '../NameCard/NameCard'
+
 const name= require('@rstacruz/startup-name-generator')
 class App extends React.Component{
     state={
